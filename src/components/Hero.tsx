@@ -55,7 +55,7 @@ export const Hero = () => {
               <Button 
                 size="lg" 
                 variant="outline"
-                onClick={() => window.open('https://wa.me/919999999999', '_blank')}
+                onClick={() => window.open('https://wa.me/917709892835', '_blank')}
               >
                 Contact on WhatsApp
               </Button>
